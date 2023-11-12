@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="start">Start</string>
+    <string name="speed">0 km/h</string>
+    <string name="settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="speedLimit">Set a Speed Limit</string>
+    <string name="records">Records</string>
+    <string name="speedLimitNum" />
+    <string name="speedLimitNumHint">Speed limit</string>
+    <string name="all_records">All Records</string>
+    <string name="view_records_based_on_your_preferences">View Records</string>
+    <string name="last_week_records">Last Week\'s Records</string>
+    <string name="title_activity_all_records_maps">AllRecordsMapsActivity</string>
+    <string name="last_month_s_records">Last Month\'s Records</string>
+    <string name="all_records_text_view">All Records</string>
+    <string name="last_month_records">Last Month\'s Records</string>
+    <string name="last_week_s_records">Last Week\'s Records</string>
+</resources>
